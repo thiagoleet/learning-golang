@@ -18,4 +18,3 @@
 
 ---
 
-Deployed in: https://react-complete-guide-delta.vercel.app/
