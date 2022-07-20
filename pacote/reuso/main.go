@@ -3,11 +3,11 @@ package main
 import (
 	"fmt"
 
-	"github.com/thiagoleet/area"
+	"github.com/thiagoleet/goarea"
 )
 
 func main() {
 
-	fmt.Println(area.Circ(6.0))
+	fmt.Println(goarea.Circ(6.0))
 
 }
